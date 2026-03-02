@@ -1,4 +1,4 @@
-#Mastering SQL: A Guide to Joins and Window Functions
+# Mastering SQL: A Guide to Joins and Window Functions
 
 
 In the world of data analytics, SQL is the essential language for extracting insights from relational databases. While basic queries (`SELECT`, `WHERE`) are straightforward, the true power of SQL lies in manipulating and analyzing complex data relationships. This is where **Joins** and **Window Functions** become indispensable tools.
